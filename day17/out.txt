@@ -1,0 +1,3 @@
+Found max y velocity 999
+Found highest y: 23005
+Total hits 2040
